@@ -362,7 +362,11 @@
 "Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs"
 "Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
 "Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
+"Assets/Scripts/ConnectToServer.cs"
+"Assets/Scripts/CreateAndJoinRooms.cs"
+"Assets/Scripts/FirstPersonAIO.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/SpawnPlayers.cs"
 -langversion:8.0
 
 /deterministic
